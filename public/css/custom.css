@@ -1,0 +1,43 @@
+#currentTable {
+    width: 100%;
+    margin: auto;
+    padding: 1%;
+    margin-top: 2%;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+}
+
+#currentTable thead tr {
+    border-bottom: 1px solid grey
+
+}
+
+#currentTable thead td {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#currentTable tbody td {
+    font-size: 22px;
+}
+
+#btnRow {
+    display: flex;
+}
+
+#btnRow button {
+    margin-right: 2%;
+}
+
+ #totalRow, #avgRow {
+     font-weight: bold;
+    border-top: 2px solid black;
+}
+
+.stats {
+    margin-top: 2%;
+}
+
+.chart {
+    margin-top: 2%;
+}
