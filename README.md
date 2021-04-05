@@ -1,5 +1,5 @@
 # Introduction
-Learning Laravel from SMU Academy.
+Laravel Project from participating in SMU Academy course - professional certificate in web application development 
 
 
 
